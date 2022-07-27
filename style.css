@@ -1,0 +1,9 @@
+.city {
+    text-align: center;
+    flex-wrap: center;
+}
+
+#search {
+    color: aqua;
+    size: 30px;
+}
